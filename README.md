@@ -89,6 +89,3 @@ This script shows the packages installed on a specific date.
 
 `User: NONE` 
 
-## Contributing
-
-Feel free to contribute to this project by reporting any issues or by submitting a pull request.
